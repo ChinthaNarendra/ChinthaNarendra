@@ -1,50 +1,24 @@
-# Hi there 👋, I'm ChinthaNarendra
+# 💫 About Me:
+👋 Hi, I'm Narendra<br><br>🎓 I completed my B.Tech in Electronics Engineering in 2025, but my strong interest lies in the IT and software development field.<br><br>💻 I enjoy learning programming concepts and building practical projects that improve my problem-solving and development skills.<br><br>🚀 I have hands-on experience in Core Java, Object-Oriented Programming (OOP), Collections, Exception Handling, JavaScript, and basic web development.<br><br>🛠️ I like building real-world projects and exploring new technologies to improve my technical skills.<br><br>📌 Some of my notable projects include:<br>• Urban Harmony – AI & IoT based Air and Noise Quality Monitoring System using Arduino and ThingSpeak<br>• Ticket Booking Web Application with OTP Authentication<br>• Java Swing Calculator Application<br>• Dynamic Role-Based Access Control (RBAC) System in Python<br><br>🌱 Currently improving my knowledge in Java development, backend concepts, and software engineering practices.<br><br>🤝 I’m open to collaborating on beginner-friendly software development projects and learning opportunities.<br><br>📫 How to reach me:  <br>Email: chinthanarendra@example.com<br><br>⚡ Fun fact: I enjoy learning new technologies and turning ideas into working software projects.
 
-A passionate [your profession or interest, e.g., developer] from [your location, e.g., India].
 
-## 📫 How to reach me:
-- ✉️ Email: [chinthanarendracn@gmail.com](mailto:chinthanarendracn@gmail.com)
-- 🐦 Twitter: [@yourtwitter](https://twitter.com/yourtwitter)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/narendraofficial34) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/narendra-chintha-912a8a303) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chinthanarendracn@gmail.com) 
 
-## 🌐 Connect with me:
-[<img align="left" alt="yourwebsite" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.20.0/icons/globe.svg" />][yourwebsite]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.20.0/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.20.0/icons/instagram.svg" />][instagram]
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ChinthaNarendra&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ChinthaNarendra&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChinthaNarendra&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[yourwebsite]: https://yourwebsite.com
-[linkedin]: https://linkedin.com/in/yourusername
-[instagram]: https://instagram.com/yourusername
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<br/>
-
-## 🛠️ Languages and Tools:
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React " width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python " width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-
-<br/>
-
-## 🔥 My Stats:
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ChinthaNarendra&theme=dark&background=0d1117&border=0d1117&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChinthaNarendra&layout=compact&theme=vision-friendly-dark)
-
-## 📊 GitHub Activity:
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ChinthaNarendra&theme=github-compact&hide_border=true)
-
-## 💰 You can help me by Donating:
-BuyMeACoffee / Ko-Fi / PayPal (add your links here)
-
-## ⚡ Fun Fact:
-[Add a fun fact about yourself here]
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ChinthaNarendra&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=ChinthaNarendra&icon=0&color=0)](https://visitcount.itsvg.in)
 
-**Note:** This is a starter template based on your current GitHub profile details (display name: ChinthaNarendra, bio: "Hi there 👋"). Customize the placeholders (e.g., [your profession], links, tools, stats) with your actual information. Once updated, commit and push to your `main` branch to see it live on your profile! If you have more details (like pinned repos or skills), add them in sections like:
-
-### ✨ Pinned Repositories:
-- **[Repo Name](link)**: Brief description.
-
-For stats badges to work, ensure your GitHub profile is public and has some activity. If you need help with specific customizations, let me know!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
